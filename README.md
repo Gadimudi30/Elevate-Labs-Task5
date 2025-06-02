@@ -1,1 +1,2 @@
 # Elevate-Labs-Task5
+"This task involves performing Exploratory Data Analysis (EDA) on the Titanic dataset using Python tools like Pandas, Matplotlib, and Seaborn. Our goal is to uncover patterns, trends, and anomalies through statistical summaries and visualizations such as pair plots, heatmaps, histograms, and boxplots.Here the observations will accompany each visuals, and also the summary of findings are been included."
